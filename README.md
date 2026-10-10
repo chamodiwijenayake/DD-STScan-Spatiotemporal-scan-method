@@ -45,7 +45,7 @@ DD-STScan-Spatiotemporal-scan-method/
 │   ├── New.precog.sim.R              # PreCoG-based workflow simulation code
 │   └── New.mst.all.R                 # Supporting research code
 └── README.md                         # Main repository overview
-
+```
 ## Software and Dependencies
 This repository includes R scripts, Jupyter notebooks (.ipynb), CSV datasets, and SaTScan parameter files.
 
