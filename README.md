@@ -46,10 +46,10 @@ DD-STScan-Spatiotemporal-scan-method/
 │   └── New.mst.all.R                 # Supporting research code
 └── README.md                         # Main repository overview
 
-Software and Dependencies
+## Software and Dependencies
 This repository includes R scripts, Jupyter notebooks (.ipynb), CSV datasets, and SaTScan parameter files.
 
-Requirements
+## Requirements
 R (Version >= 4.0 recommended)
 
 Python 3.x / Jupyter Notebook
@@ -58,7 +58,7 @@ SaTScan (v9.6 or later)
 
 Please refer to docs/README_Reproducibility_Guide.pdf for complete dependency specifications and package version requirements.
 
-Quickstart & Reproducibility
+## Quickstart & Reproducibility
 To explore or reproduce the computational experiments:
 
 Clone the repository:
@@ -74,7 +74,7 @@ Set Up Paths: Ensure input/output directories in src/ and notebooks/ use relativ
 
 Execute Pipeline: Run the desired simulation or scanning scripts within src/ or launch the analysis notebook in notebooks/.
 
-Research & Citation
+## Research & Citation
 This repository contains computational materials associated with the research paper:
 
 An Adaptive Spatio-Temporal Scan for Irregular Cluster Detection
@@ -82,11 +82,9 @@ An Adaptive Spatio-Temporal Scan for Irregular Cluster Detection
 Please refer to the associated research manuscript for methodological details and formal citation information. Publication details will be added upon final release.
 
 Contributors
-Chamodi Wijenayake
+* Chamodi Wijenayake
+* Dr. James Greene
+* Dr. Mohammad Meysami
 
-Dr. James Greene
-
-Dr. Mohammad Meysami
-
-License
+## License
 No license has been specified yet. Please consult the research contributors and applicable institutional policies before reusing, modifying, or redistributing this code.
